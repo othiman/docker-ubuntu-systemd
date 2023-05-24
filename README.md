@@ -3,7 +3,7 @@ Docker Ubuntu Systemd
 
 This Dockerfile can build containers capable to use systemd and sudo. Its a fork of Robert deBock with sudo added.
 
-[![ubuntu build status](https://img.shields.io/docker/cloud/build/schlien/ubuntu-ansible-systemd.svg)](https://hub.docker.com/repository/docker/schlien/ubuntu-ansible-systemd)
+[![build-push](https://github.com/othiman/docker-ubuntu-systemd/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/othiman/docker-ubuntu-systemd/actions/workflows/build-push-action.yml)
 
 Branches
 --------
