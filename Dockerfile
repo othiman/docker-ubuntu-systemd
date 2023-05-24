@@ -1,7 +1,7 @@
 FROM ubuntu:jammy
 
-LABEL maintainer="Robert de Bock <robert@meinit.nl>"
-LABEL build_date="2023-01-20"
+LABEL maintainer="Thomas Schlien <ts@ferncast.de>"
+LABEL build_date="2023-05-24"
 
 ENV container docker
 
